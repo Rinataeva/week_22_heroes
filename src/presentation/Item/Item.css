@@ -1,0 +1,15 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 0.5rem #ccc;
+    background-color: #333;
+    color: whitesmoke;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.2;
+    font-weight: 300;
+    font-size: 1 rem;
+}
